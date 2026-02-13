@@ -30,7 +30,7 @@ This CRM dashboard UI solves these problems by providing a clear, visual, and ef
 - Service Distribution Chart
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard.png)
+![Dashboard Overview](screenshots/dashboard.png.png)
 
 ## Workflow Logic
 
